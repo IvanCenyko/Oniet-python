@@ -1,0 +1,30 @@
+input: pedir datos por consola
+
+n1 = input('ingrese numero') => se guarda como string
+n2 = input('ingrese numero')
+n1 + n2 => concatena strings
+
+n1 = int(input('ingrese numero')) => lo guardo como int, numerico
+
+print(f'el resultado es {resultado}') => la f hace que se interprete lo que esta entre llaves como variable
+
+condicionales if, else
+numero = int(input('ingrese numero'))
+if numero > 0:
+	print('el numero es positivo')
+
+CASO 1:
+if...
+if...
+if...
+Aca pregunta sin importar si los if anteriores son correctos o no
+
+CASO 2:
+if...
+elif numero < 0:
+else...
+
+el elif se chequeara solo si el if anterior no se cumplio
+else es para cuando no hay otro caso posible
+
+Propuesta: programa que detecte si un numero es par o impar
