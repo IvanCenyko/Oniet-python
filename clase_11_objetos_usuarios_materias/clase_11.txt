@@ -1,0 +1,3 @@
+Sistema de gestion de alumnos
+clase alumno, debe tener nombre, fecha de nacimiento, matricula, materias inscripto.
+Metodo: materia dar de alta o de baja.

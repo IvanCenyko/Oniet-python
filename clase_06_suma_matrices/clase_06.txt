@@ -1,0 +1,6 @@
+Listas dentro de listas xd:
+
+fila1 = [r1+r2, -r2]
+fila2 = [-r2, r2+r3]
+matriz = [fila1, fila2] ////////// matriz = [[r1+r2, -r2], [-r2, r2+r3]]
+matriz[0][0]
