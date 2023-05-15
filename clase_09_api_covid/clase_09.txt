@@ -1,4 +1,0 @@
-API: pedazo de software que hace de interfaz
-    p.ej.: pagina web a la que le pido datos determinados por el URL
-
-
