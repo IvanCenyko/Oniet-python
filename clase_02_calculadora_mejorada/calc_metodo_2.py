@@ -12,8 +12,9 @@ resultados = [] #lista vacía
 
 while True:
     num1 = input("Ingrese un numero: ") #input numero 1
-    num2 = input("Ingrese un numero: ") #input numero 2
     op = input("Ingresa la operacion: ") #tipo de operacion
+    num2 = input("Ingrese un numero: ") #input numero 2
+
 
     #si yo ingreso en el primer input 'ans'
     if num1 == 'ans':
@@ -39,7 +40,7 @@ while True:
     elif op == "^":
         res = math.pow(num1, num2)
     elif op == "√":
-        res = math.pow(num1, 1/num2)
+        res = math.pow(num2, 1/num1)
     
     #guardo el resultado en el historial y printeo
     resultados.append(res)
