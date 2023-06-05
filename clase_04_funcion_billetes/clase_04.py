@@ -13,4 +13,4 @@ def vuelto(cantidad, billetes):
     
     return vuelto
 
-print(vuelto(347, [100, 50, 20, 1]))
+print(vuelto(467, [100, 50, 20, 10, 1]))
