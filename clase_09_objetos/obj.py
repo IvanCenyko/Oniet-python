@@ -21,4 +21,4 @@ class Square (Shape):
 t1 = Triangle(10,10)
 s1 = Square(10, 10)
 
-print(s1.areaTotal)
+print(s1.areaTotal())
