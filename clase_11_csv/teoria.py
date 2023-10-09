@@ -8,7 +8,6 @@ with open(r"./archivo.csv", 'r') as file:
     print(row)
 
 
-
 [
   ['#', 'equipo', 'puntos'],
   ['1', 'River', '80'],
